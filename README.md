@@ -1,5 +1,5 @@
 ---
-description: Introducing the two tokens and the overall structure of the system
+Taproot Freak Version
 ---
 
 # 🧀 Overview
